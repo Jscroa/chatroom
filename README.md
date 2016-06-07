@@ -4,7 +4,6 @@ Socket实现的聊天室
 * IDE: eclipse
 * DB: MySQL 5.6.21
 
-Database create:
 ```sql
 CREATE DATABASE `chatroom` DEFAULT CHARACTER SET utf8;
 CREATE TABLE `chatroom_user` (
